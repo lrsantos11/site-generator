@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Luiz-Rafael Santos
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Applied Mathematics and Optimization
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Federal University of Santa Catarina
+  url: https://blumenau.ufsc.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include theory and implementation of optimization algorithms, numerical analysis, scientific computing, open-source software, data science and machine leaning, and Julia programming language.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optimization algorithms
+- Continous optimizaion
+- Convex optimization
+- Data science and machine learning 
+- Numerical analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Applied Mathematics
+    institution: Univesity of Campinas
+    year: 2014
+  - course: MSc in Applied Mathematics
+    institution: Univesity of Campinas
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Mathematics
+    institution: University of Blumenau
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +44,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:lrsantos11@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/lrsantos11
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com.br/citations?user=LvSioAIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/lrsantos11
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/8148144650071227
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0083-587
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Luiz_Rafael_Santos
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +73,12 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lrsantos11@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Luiz-Rafael Santos is a professor of applied mathematics the Department of Mathematics of Federal University of Santa Catarina - Blumenau. His research interests include analysis and implementation of continous optimization algorithms, convex optimization, algorithms for data science and machine learning and numerical analysis. He leads the Laboratory of Applied Mathematics, which develops open-source research solvers and algorithms in applied mathematics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
