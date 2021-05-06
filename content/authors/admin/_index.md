@@ -21,17 +21,18 @@ interests:
 - Optimization algorithms
 - Continous optimizaion
 - Convex optimization
-- Data science and machine learning 
+- Data science 
+- Machine learning 
 - Numerical analysis
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: Univesity of Campinas
+    institution: University of Campinas
     year: 2014
   - course: MSc in Applied Mathematics
-    institution: Univesity of Campinas
+    institution: University of Campinas
     year: 2009
   - course: BSc in Mathematics
     institution: University of Blumenau
@@ -81,4 +82,4 @@ highlight_name: true
 
 Luiz-Rafael Santos is a professor of applied mathematics the Department of Mathematics of Federal University of Santa Catarina - Blumenau. His research interests include analysis and implementation of continous optimization algorithms, convex optimization, algorithms for data science and machine learning and numerical analysis. He leads the Laboratory of Applied Mathematics, which develops open-source research solvers and algorithms in applied mathematics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
